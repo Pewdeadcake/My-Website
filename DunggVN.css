@@ -336,12 +336,12 @@
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
     margin-top: 20px;
-    margin-left: 0;
+    margin-left: -22px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.875rem;
-    width: 560px;
+    width: auto;
     margin-top: 638px;
     margin-left: 0;
     margin-right: 0;
